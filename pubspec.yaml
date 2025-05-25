@@ -1,0 +1,15 @@
+name: mini_tienda_flutter
+description: Una mini tienda con carrito en Flutter.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  google_fonts: ^6.1.0
+
+flutter:
+  uses-material-design: true
